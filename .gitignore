@@ -1,0 +1,10 @@
+# PyCharm
+.idea
+.pytest_cache
+
+# Environments
+.env
+.venv
+env/
+venv/
+
